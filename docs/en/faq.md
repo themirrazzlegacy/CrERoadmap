@@ -1,8 +1,6 @@
-# CrERoadmap: The Official Crazy Error Roadmap
-Welcome to the GitHub repository of the official CrE RoadMap! Here you can find all the source code used to power our website!
-
-チップ：日本語を話しますか？[[日本語]クレーマップのよくある質問](/docs/ja/faq.md)<br/>
-French translation tbd (we need to contact our translator)
+`Docs[En]/faq.md`
+# CrE Roadmap FAQ
+Frequently Asked Questions
 
 ## What is the CrE Roadmap?
 The CrE Roadmap, also known as "The Crazy Error Roadmap", "The Official Crazy Error Roadmap", and 「クレージー・エラー・ロードマップ / クレーマップ」, is as its name suggests, indeed a roadmap. A unqiue type of roadmap.
