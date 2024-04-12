@@ -24,10 +24,10 @@ Currently, we do not have a domain set up as we are still developing the CrE Roa
 You can see exactly what the CrE Roadmap is doing. However, not all of the code is open source.
 Most of our code files will have copyright notices at the top. If you're unsure of whether you are permitted to use our source code, please check the comments at the beginning of the files.
 
-## What web browsers are supported?
+## どのウェブブラウザはあなたができるか?
 To make the CrE Roadmap as accessible as possible, the main CrE Roadmap website supports Chrome, Firefox, Safari, Edge, Opera, Brave, Border, MyPal, TOR, and Internet Explorer.
 Other browsers may be supported that we are not aware of at the time.
 
-## What languages does the CrE Roadmap support?
-Our Built-In Languages are translated by us along with trusted translators. Our Built-In Languages we have are English (English), Français (French), and 日本語 (Japanese).
-These translations are verified and are usually accurate. We also are going to support Community Translations - these are translations to other languages that are not built-in. Anyone can contribute to community translations, but before making a contribution, read [Contributing With Community Translations](/docs/en/community-translations.md)
+## クレーマップはどの言語をありますか?
+Our Built-In Languages are translated by us along with trusted translators. Our Built-In Languages we have are English (英語), Français (フランス語), and 日本語 (日本語).
+These translations are verified and are usually accurate. We also are going to support Community Translations - these are translations to other languages that are not built-in. Anyone can contribute to community translations, but before making a contribution, read [コミュニティ翻訳とあなた](/docs/ja/community-translations.md)
