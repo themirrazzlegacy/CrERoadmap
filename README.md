@@ -1,8 +1,11 @@
 # CrERoadmap: The Official Crazy Error Roadmap
 Welcome to the GitHub repository of the official CrE RoadMap! Here you can find all the source code used to power our website!
 
+チップ：日本語を話しますか？[[日本語]クレーマップのよくある質問](/docs/ja/faq.md)
+French translation tbd (we need to contact our translator)
+
 ## What is the CrE Roadmap?
-The CrE Roadmap, also known as "The Crazy Error Roadmap", "The Official Crazy Error Roadmap", and 「クレージー・エラー・ロードマップ」, is as its name suggests, indeed a roadmap. A unqiue type of roadmap.
+The CrE Roadmap, also known as "The Crazy Error Roadmap", "The Official Crazy Error Roadmap", and 「クレージー・エラー・ロードマップ / クレーマップ」, is as its name suggests, indeed a roadmap. A unqiue type of roadmap.
 The CrE Roadmap tracks all advancements in crazy errors, from new features to brand new crazy errors coming out, to small creators just getting started, to really cool BGMs that are underrated.
 We track it all. Including changes in trends of how crazy errors are created, crazy error collabs, and more information.
 
@@ -20,3 +23,11 @@ Currently, we do not have a domain set up as we are still developing the CrE Roa
 ## Is the CrE Roadmap open-source?
 We allow you to view all of the source code because we believe in transparency. You can see exactly what the CrE Roadmap is doing. However, not all of the code is open source.
 Most of our code files will have copyright notices at the top. If you're unsure of whether you are permitted to use our source code, please check the comments at the beginning of the files.
+
+## What web browsers are supported?
+To make the CrE Roadmap as accessible as possible, the main CrE Roadmap website supports Chrome, Firefox, Safari, Edge, Opera, Brave, Border, MyPal, TOR, and Internet Explorer.
+Other browsers may be supported that we are not aware of at the time.
+
+## What languages does the CrE Roadmap support?
+Our Built-In Languages are translated by us along with trusted translators. Our Built-In Languages we have are English (English), Français (French), and 日本語 (Japanese).
+These translations are verified and are usually accurate. We also are going to support Community Translations - these are translations to other languages that are not built-in. Anyone can contribute to community translations, but before making a contribution, read [Contributing With Community Translations](/docs/en/community-translations.md)
